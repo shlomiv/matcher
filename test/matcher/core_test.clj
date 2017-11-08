@@ -1,5 +1,5 @@
-(ns matcher-test
-  (:require [matcher :refer [super-match deepest-path parent]]
+(ns matcher.core-test
+  (:require [matcher.core :refer [super-match deepest-path parent]]
             [clojure.test :refer [is deftest]]))
 
 (deftest super-matcher

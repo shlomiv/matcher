@@ -1,4 +1,4 @@
-(ns matcher
+(ns matcher.core
   (:require [automat.core :as a]
             [clojure.string :as str]
             [clojure.core.memoize :as m]
@@ -278,3 +278,4 @@
 ;; We can manipulate the nodes we could fetch (a nasty trick):
 (defn parent [ngrams]
   (transform [ALL FIRST :matched] pop ngrams))
+
