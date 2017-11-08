@@ -1,4 +1,4 @@
-(defproject vadali/matcher "0.1.0-SNAPSHOT"
+(defproject vadali/matcher "0.1.0"
   :description "Matching and extracting data from deeply nested structures"
   :url "https://github.com/vadali/matcher"
   :license {:name "MIT License"
