@@ -1,5 +1,5 @@
 # matcher
-[![Build Status](https://travis-ci.org/vadali/matcher.svg?branch=master)](https://travis-ci.org/vadali/matcher)
+[![Build Status](https://travis-ci.org/shlomiv/matcher.svg?branch=master)](https://travis-ci.org/shlomiv/matcher)
 [![Clojars Project](https://img.shields.io/clojars/v/vadali/matcher.svg)](https://clojars.org/vadali/matcher)
 
 
